@@ -28,8 +28,6 @@ Assorto nei suoi pensieri non si era accorto di avere cominciato a scendere le s
 
 'Di quali pozione parli?', 'Della pozione che finalmente farà sparire tutti i fantasmi di Londra' continuò Kevin ad uno sbigottito Alessandro
 
-### FINE
-
 ---
 
-Questo è il primo di una lunga serie ri racconti
+Questo è il primo di una lunga serie di racconti di Kevin lo scienziato ed Alessandro il fantasma
