@@ -1,49 +1,35 @@
 ---
-title: Welcome to empress-blog
+title: Il primo incontro
 image: /images/welcome.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
 authors:
-  - ghost
-date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
+  - papo
+date: Fri Nov 9 2019 08:48:59 GMT+0100 (IST)
 tags:
-  - getting-started
+  - racconti
 ---
 
-Hey! Welcome to empress-blog, it's great to have you :)
+## Il primo incontro
 
-We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
+Kevin stava nella cantina della sua casa a studiare per diventare uno scienziato famoso, voleva inventare una pozione per sconfiggere i fantasmi che andavano in giro per le case di Londra a spaventare le persone.
 
+Alessandro invece era un giovane fantasma da poco promosso a fantasma dei boschi dopo alcuni anni passati a fare i rumori dentro le case abbandonate e quella sera aveva finalmente deciso di andare a vedere la casa che si trovava di fronte al suo boschetto.
 
-### There are a few things that you should know up-front:
+Alessandro si guarda intorno ammirando l'arredamento minimale e trasandato della casa, a malapena ricordava la sua vita da vivo ma sicuramente avrebbe scelto lo stesso arredamento pensava tra se e se.
 
-1. empress-blog is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
+Assorto nei suoi pensieri non si era accorto di avere cominciato a scendere le scale fino a quando non si trovò di fronte ai suoi occhi fantasmosi due occhialoni a calamita dietro cui si intravedevano gli occhi impauriti di un bambino, Kevin lo scienziato.
 
-1. empress-blog is designed for developers who know how to deploy a static site (folder of html files and assets) using something like S3 or even just on NGINX.
+'AHAHAHHAHAHHAAHAHAHAH' insieme urlarono di paura mentre uno non credeva di avere davanti l'altro, uno scienziato che voleva distruggere i fantasmi e un fantasma che voleva essere amico degli uomini.
 
-1. If you are slightly less tech savvy or if you want to manage your blog outside of just a set of files in a git repo we highly recommend signing up for [Ghost](https://ghost.org/pricing/)
+'Che ci fai tu qui fantasma? Vattene che non ho ancora finito di inventare la mia pozione' disse Kevin al fantasma che non capendo di cosa parlasse gli risposte
 
-### Quick Start
+'Di quali pozione parli?', 'Della pozione che finalmente farà sparire tutti i fantasmi di Londra' continuò Kevin ad uno sbigottito Alessandro
 
-```sh
-# if you don't have ember-cli installed already
-npm install -g ember-cli
-
-ember new super-blog
-cd super-blog
-
-ember install empress-blog empress-blog-casper-template
-```
-
-It will ask you if you want to update the `index.html` file and you should say yes 👍
-
-If you want to see the blog system running on your local machine just run `npm start` and you will
-be able to navigate to  [http://localhost:4200](http://localhost:4200) to see the blog in action.
+### FINE
 
 ---
 
-The main thing you'll want to read about next is probably: [editing files with empress-blog](/the-editor/).
-
-Once you're done reading, you can simply delete the default **Ghost** user from your team to remove all of these introductory posts!
+Questo è il primo di una lunga serie ri racconti

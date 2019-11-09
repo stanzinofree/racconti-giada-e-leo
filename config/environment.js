@@ -24,8 +24,8 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: 'I racconti di Giada e Leo',
+      description: 'Il loro angolo per coltivare la creatività',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
