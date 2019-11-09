@@ -1,7 +1,7 @@
 ---
 name: Papone
 id: papo
-image: /images/ghost-icon.png
+image: /images/papone-img.png
 cover:
 website: https://stanzinofree.net
 twitter:
