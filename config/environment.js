@@ -26,7 +26,7 @@ module.exports = function(environment) {
     blog: {
       title: 'I racconti di Giada e Leo',
       description: 'Il loro angolo per coltivare la creatività',
-      coverImage: '/images/blog-cover.jpg',
+      coverImage: '/images/kevin0.png',
 
       navigation: [{
         label: 'Home',

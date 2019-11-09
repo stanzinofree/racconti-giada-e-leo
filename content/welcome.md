@@ -1,6 +1,6 @@
 ---
 title: Il primo incontro
-image: /images/welcome.jpg
+image: /images/kevin_alex.png
 imageMeta:
   attribution:
   attributionLink:
