@@ -14,20 +14,21 @@ tags:
 
 ## Il primo incontro
 
-Kevin stava nella cantina della sua casa a studiare per diventare uno scienziato famoso, voleva inventare una pozione per sconfiggere i fantasmi che andavano in giro per le case di Londra a spaventare le persone.
+Kevin stava nella cantina della sua casa a studiare per diventare uno scienziato famoso, da quando era bambino aveva il sogno di inventare una pozione per sconfiggere i fantasmi che andavano in giro per le case di Londra a spaventare le persone.
 
-Alessandro invece era un giovane fantasma da poco promosso a fantasma dei boschi dopo alcuni anni passati a fare i rumori dentro le case abbandonate e quella sera aveva finalmente deciso di andare a vedere la casa che si trovava di fronte al suo boschetto.
+Alessandro invece era un giovane fantasma da poco promosso a *"fantasma dei boschi"* dopo alcuni anni passati a fare i rumori dentro le case abbandonate e quella sera aveva finalmente deciso di andare a visitare la dimora che si trovava di fronte al suo boschetto.
 
-Alessandro si guarda intorno ammirando l'arredamento minimale e trasandato della casa, a malapena ricordava la sua vita da vivo ma sicuramente avrebbe scelto lo stesso arredamento pensava tra se e se.
+Appena entrato Alessandro si guarda intorno ammirando l'arredamento minimale e trasandato della casa, a malapena ricordava la sua vita da vivo ma era sicuro che se fosse stato ancora vivo avrebbe scelto lo stesso arredamento.
 
-Assorto nei suoi pensieri non si era accorto di avere cominciato a scendere le scale fino a quando non si trovò di fronte ai suoi occhi fantasmosi due occhialoni a calamita dietro cui si intravedevano gli occhi impauriti di un bambino, Kevin lo scienziato.
+Assorto nei suoi pensieri non si era accorto di avere cominciato a scendere le scale fino a quando non si trovò di fronte ai suoi occhi fantasmosi due occhialoni a calamita dietro cui si intravedevano quelli impauriti di un bambino, Kevin lo scienziato.
 
-'AHAHAHHAHAHHAAHAHAHAH' insieme urlarono di paura mentre uno non credeva di avere davanti l'altro, uno scienziato che voleva distruggere i fantasmi e un fantasma che voleva essere amico degli uomini.
+- 'AHAHAHHAHAHHAAHAHAHAH' insieme urlarono di paura mentre uno non credeva di avere davanti l'altro, uno scienziato che voleva distruggere i fantasmi e un fantasma che voleva essere amico degli uomini.
 
-'Che ci fai tu qui fantasma? Vattene che non ho ancora finito di inventare la mia pozione' disse Kevin al fantasma che non capendo di cosa parlasse gli risposte
+- 'Che ci fai tu qui fantasma? Vattene che non ho ancora finito di inventare la mia pozione' disse Kevin al fantasma che, non capendo di cosa parlasse, gli rispose
 
-'Di quali pozione parli?', 'Della pozione che finalmente farà sparire tutti i fantasmi di Londra' continuò Kevin ad uno sbigottito Alessandro
+- 'Di quali pozione parli?'
+- 'Della pozione che finalmente farà sparire tutti i fantasmi di Londra' continuò Kevin ad uno sbigottito Alessandro
 
 ---
 
-Questo è il primo di una lunga serie di racconti di Kevin lo scienziato ed Alessandro il fantasma
+***Questa prima parte verrà continuata in futuro e serviva solo a introdurvi i personaggi, in futuro torneremo a finire questo primo incontro***

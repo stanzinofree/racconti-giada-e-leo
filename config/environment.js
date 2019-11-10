@@ -35,6 +35,14 @@ module.exports = function(environment) {
         label: 'Creato da Papone',
         route: 'page',
         id: 'stanzinofree'
+      }, {
+        label: 'Kevin',
+        route: 'page',
+        id: 'kevin'
+      }, {
+        label: 'Alessandro',
+        route: 'page',
+        id: 'alessandro'
       }]
     },
 
