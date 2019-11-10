@@ -12,8 +12,6 @@ tags:
   - racconti
 ---
 
-## Il primo incontro
-
 Kevin stava nella cantina della sua casa a studiare per diventare uno scienziato famoso, da quando era bambino aveva il sogno di inventare una pozione per sconfiggere i fantasmi che andavano in giro per le case di Londra a spaventare le persone.
 
 Alessandro invece era un giovane fantasma da poco promosso a *"fantasma dei boschi"* dopo alcuni anni passati a fare i rumori dentro le case abbandonate e quella sera aveva finalmente deciso di andare a visitare la dimora che si trovava di fronte al suo boschetto.
